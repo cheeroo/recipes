@@ -6,8 +6,6 @@ categories: main
 color: yellow
 ---
 
-
-
 ## Ingredients
 - Shell
 - Real meat product
@@ -15,3 +13,4 @@ color: yellow
 - Artisanal augula
 - Salsa
 - Onions
+- Tomato
